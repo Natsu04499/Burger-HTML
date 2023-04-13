@@ -1,0 +1,98 @@
+#imggauche {  
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+#column {
+    display: flex;
+    flex-direction: column;
+}
+
+#gauche {
+    width: 550px;
+    height: 420px;
+}
+
+#burger {
+    margin-left: 20px;
+    margin-bottom: 35px;
+}
+
+#burger1 {
+    margin-left: 20px;
+}
+
+#tasty {
+    text-align: center;
+}
+
+
+#always {
+    text-align: center;
+    border: 1px ;
+    background-color: rgb(243, 196, 109);
+    margin-left: 35%;
+    margin-right: 35%;
+    color: rgb(68, 32, 6);
+}
+
+#choose {
+    color: rgb(68, 32, 6);
+    text-align: center;
+}
+
+#Lorem {
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    color: rgb(68, 32, 6);
+}
+
+
+
+#burgerselec {
+    display: flex;
+    justify-content: space-around;
+}
+
+#shadow {
+    display: flex;
+    justify-content: space-around;
+}
+
+#nom {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(68, 32, 6);
+}
+#détail {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(68, 32, 6);
+    text-align: center;
+}
+
+#Order {
+    display: flex;
+    justify-content: space-around;
+}
+
+#O1{
+    border: 1px ;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+#O2{
+    border: 1px ;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+#O3{
+    border: 1px ;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
